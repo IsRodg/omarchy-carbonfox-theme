@@ -1,7 +1,7 @@
 @define-color background-color #181818ee;
 @define-color border-color #33b1ff;
 @define-color label #f2f4f8;
-@define-color image #2dc7c4;
+@define-color image #f2f4f8;
 @define-color progress #00B0FF;
 
 window {
